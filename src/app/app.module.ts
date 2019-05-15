@@ -5,7 +5,7 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './home/home.component';
 import { NavbarComponent } from './navbar/navbar.component';
 
-
+//no one expects the spanish inqisition!
 @NgModule({
   declarations: [
     AppComponent,
